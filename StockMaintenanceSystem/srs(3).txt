@@ -1,0 +1,10 @@
+Stock Maintenance System
+The stock maintenance system helps the employees to record information  of the items available in the store and generate reports based on total amount of sales.
+there will be six to seven classes such as:
+1:Customer:Customer will buy the product and if the product is on stock then the customer will do the payment and will buy the product.Customer will have attributes like name,age,address etc.
+2:Stock:Stock will  be the amount of products which is left.Stock contains no of items,their quantity etc and operations like add and delete stock.
+3: Product:It contains the items to be bought by the customers.
+4: payment:If the customers buys any product he will have to pay through payment option and after he/she shall get payment receipt for the same.
+5:User:User will store the attributes like name,email etc.
+One to many multiplicity will be frequently used as there will be a customer who will purchase more than one item.
+Association names and association end names will also be used.
